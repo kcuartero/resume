@@ -1,58 +1,75 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Kevin Cuartero
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+- <kevin.cuartero@mail.com>
+- (647) 465-4790
+- [Website](https://kcuartero.info/)
+- [GitHub](https://github.com/kcuartero)
+- Brampton, ON
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+Accomplished IT professional with a strong interest in cloud-based solutions and a track record of 
+driving business success through innovative technology. Left previous role to pursue a deeper 
+understanding of cloud-based solutions and develop advanced technical skills in this area. Seeking a 
+challenging cloud engineer role where I can apply my technical skills and passion for innovation to 
+contribute to the success of an innovative organization
+
+## Project
+
+### <span>The Cloud Resume Challenge | A multiple-step resume project that builds and demonstrate fundamental cloud skills</span>
+
+Built a static website hosted on Google Cloud utilizing the technologies below:
+
+- Google Cloud services (Cloud Run, Datastore, Cloud DNS, Cloud Storage, Cloud Load Balancing)
+
+- Application security (IAM, CORS, API)
+
+- Continuous integration and delivery (connecting GitHub Actions, Terraform and Google Cloud)
+
+- Full-stack software development (HTML/CSS, Python and Javascript)
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+### <span>Help Desk Supervisor, Accuristix</span> <span>Oct 2018 -- May 2022</span>
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+- Managed IT team of three technicians and mentored them in support of greater service levels and end-user 
+satisfaction
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+- Coordinated the migration of over 430 Crystal Reports from Business Objects to SAP Crystal Reports 2016
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
+- Migrated the Help Desk phone system from one-cloud based PBX system to another
 
-Global movement of free coding clubs for young people.
+- Automated the process of sending out Customer Satisfaction surveys
 
- - Awarded 'Teacher of the Month'
+- Led a company-wide transition from the in-house Service Desk system to a new IT service Management (ITSM) 
+system
 
-## Projects
+### <span>Application Support Analyst II, Accuristix</span> <span>Jan 2018 -- Oct 2018</span>
 
-### <span>Miss Direction</span> <span>Aug 2016</span>
+- Managed the configuration of the Transportation and Warehouse Management System (TMS/WMS) for over 125 
+clients and 9 facilities across Canada
 
-A mapping engine that misguides you:
+- Supported the daily function and performance of the TMS/WMS through the front-end and back-end systems
 
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+- Created documentation and standard operating procedure documentations
+
+### <span>IT Support Technician, Accuristix</span> <span>Jun 2015 -- Jan 2018</span>
+
+- Provided on-site and remote support to 400+ end-users
+
+- Administered users’ accounts and distribution groups in Active Directory and Office 365
+
+- Decreased the time to deploy desktops and laptops by 50% by implementing a new method in reimaging 
+computers
 
 ## Education
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
-
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+### <span>Seneca College, Diploma of Computer Networking and Technical Support</span>
 
 ## Skills
 
