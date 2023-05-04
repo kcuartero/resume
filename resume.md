@@ -3,25 +3,23 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <kevin.cuartero@mail.com>
+- <kevin.cuartero@gmail.com>
 - (647) 465-4790
-- [Website](https://kcuartero.info/)
-- [GitHub](https://github.com/kcuartero)
+- [kcuartero.info](https://kcuartero.info)
+- [github.com/kcuartero](https://github.com/kcuartero)
 - Brampton, ON
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 Accomplished IT professional with a strong interest in cloud-based solutions and a track record of 
 driving business success through innovative technology. Left previous role to pursue a deeper 
-understanding of cloud-based solutions and develop advanced technical skills in this area. Seeking a 
-challenging cloud engineer role where I can apply my technical skills and passion for innovation to 
-contribute to the success of an innovative organization
+understanding of cloud-based solutions and develop advanced technical skills in this area.
 
 ## Project
 
-### <span>The Cloud Resume Challenge | A multiple-step resume project that builds and demonstrate fundamental cloud skills</span>
+### <span>The Cloud Resume Challenge | A multiple-step resume project that builds and demonstrates fundamental cloud skills</span>
 
-Built a static website hosted on Google Cloud utilizing the technologies below:
+Deployed a static website hosted on Google Cloud utilizing the technologies below:
 
 - Google Cloud services (Cloud Run, Datastore, Cloud DNS, Cloud Storage, Cloud Load Balancing)
 
@@ -35,7 +33,7 @@ Built a static website hosted on Google Cloud utilizing the technologies below:
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Help Desk Supervisor, Accuristix</span> <span>Oct 2018 -- May 2022</span>
+### <span>Help Desk Supervisor, Accuristix</span> <span>2018 -- 2022</span>
 
 - Managed IT team of three technicians and mentored them in support of greater service levels and end-user 
 satisfaction
@@ -46,32 +44,36 @@ satisfaction
 
 - Automated the process of sending out Customer Satisfaction surveys
 
-- Led a company-wide transition from the in-house Service Desk system to a new IT service Management (ITSM) 
+- Led a company-wide transition from the in-house Service Desk system to a new IT Service Management (ITSM) 
 system
 
-### <span>Application Support Analyst II, Accuristix</span> <span>Jan 2018 -- Oct 2018</span>
+### <span>Application Support Analyst II, Accuristix</span> <span>2018 -- 2018</span>
 
 - Managed the configuration of the Transportation and Warehouse Management System (TMS/WMS) for over 125 
 clients and 9 facilities across Canada
 
 - Supported the daily function and performance of the TMS/WMS through the front-end and back-end systems
 
-- Created documentation and standard operating procedure documentations
+- Created documentation and standard operating procedure documentation
 
-### <span>IT Support Technician, Accuristix</span> <span>Jun 2015 -- Jan 2018</span>
+### <span>IT Support Technician, Accuristix</span> <span>2015 -- 2018</span>
 
 - Provided on-site and remote support to 400+ end-users
 
 - Administered users’ accounts and distribution groups in Active Directory and Office 365
 
-- Decreased the time to deploy desktops and laptops by 50% by implementing a new method in reimaging 
+- Decreased the time to deploy desktops and laptops by 50% by implementing a new method of reimaging 
 computers
 
 ## Education
 
-### <span>Seneca College, Diploma of Computer Networking and Technical Support</span>
+### <span>Seneca College, Diploma of Computer Networking and Technical Support</span> <span>2014</span>
 
-## Skills
+## Certification
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+### <span>Red Hat Certified Systems Administrator</span> <span>2019</span>
+
+## Languages and Technologies
+
+ - Languages: Python, JavaScript, HTML, CSS, YAML, SQL, Bash
+ - Tools: GCP, Terraform, Docker, Git, Cypress
