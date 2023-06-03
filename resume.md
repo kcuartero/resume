@@ -5,15 +5,14 @@
 line. It is intended to be used for contact details -->
 - <kevin.cuartero@gmail.com>
 - (647) 465-4790
-- [kcuartero.info](https://kcuartero.info)
+- [kcuartero.cloud](https://kcuartero.cloud)
 - [github.com/kcuartero](https://github.com/kcuartero)
 - Brampton, ON
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Accomplished IT professional with a strong interest in cloud-based solutions and a track record of 
-driving business success through innovative technology. Left previous role to pursue a deeper 
-understanding of cloud-based solutions and develop advanced technical skills in this area.
+Ambitious Cloud Engineer who proactively shifted career paths from a thriving Help Desk Supervisor role to focus on acquiring comprehensive knowledge of cloud technologies.
+Proficient in Google Cloud services, full-stack development, and IT support, I am dedicated to utilizing my diverse experience to construct and enhance scalable cloud solutions.
 
 ## Project
 
