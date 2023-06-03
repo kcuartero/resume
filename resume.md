@@ -27,6 +27,7 @@ Deployed a static website hosted on Google Cloud utilizing the technologies belo
 - Continuous integration and delivery (connecting GitHub Actions, Terraform and Google Cloud)
 
 - Full-stack software development (HTML/CSS, Python and Javascript)
+    - Utilized Python Flask framework to build web application
 
 ## Experience
 
