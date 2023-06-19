@@ -16,13 +16,14 @@ Proficient in Google Cloud services, full-stack development, and IT support, I a
 
 ## Project
 
-### <span>The Cloud Resume Challenge | A multiple-step resume project that builds and demonstrates fundamental cloud skills</span>
+### <span>The Cloud Resume Challenge | A multi-step resume project that builds and demonstrates fundamental cloud skills</span>
 
 Deployed a static website hosted on Google Cloud utilizing the technologies below:
 
 - Google Cloud services (Cloud Run, Datastore, Cloud DNS, Cloud Storage, Cloud Load Balancing)
 
 - Application security (IAM, CORS, API)
+    - Developed an API utilizing the "Google Cloud serverless stack" consisting of Cloud Run, API Gateway and Datastore
 
 - Continuous integration and delivery (connecting GitHub Actions, Terraform and Google Cloud)
 
