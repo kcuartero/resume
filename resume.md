@@ -11,8 +11,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Ambitious Cloud Engineer who proactively shifted career paths from a thriving Help Desk Supervisor role to focus on acquiring comprehensive knowledge of cloud technologies.
-Proficient in Google Cloud services, full-stack development, and IT support, I am dedicated to utilizing my diverse experience to construct and enhance scalable cloud solutions.
+Ambitious Cloud Engineer who proactively shifted career paths from a thriving Help Desk Supervisor role to focus on acquiring comprehensive knowledge of cloud technologies. Proficient in Google Cloud services, full-stack development, and IT support, I am dedicated to utilizing my diverse experience to construct and enhance scalable cloud solutions.
 
 ## Project
 
@@ -28,7 +27,6 @@ Deployed a static website hosted on Google Cloud utilizing the technologies belo
 - Continuous integration and delivery (connecting GitHub Actions, Terraform and Google Cloud)
 
 - Full-stack software development (HTML/CSS, Python and Javascript)
-    - Utilized Python Flask framework to build web application
 
 ## Experience
 
@@ -43,7 +41,7 @@ satisfaction
 
 - Migrated the Help Desk phone system from one-cloud based PBX system to another
 
-- Automated the process of sending out Customer Satisfaction surveys
+- Automated the process of sending out Customer Satisfaction surveys, resulting in improved feedback collection and analysis.
 
 - Led a company-wide transition from the in-house Service Desk system to a new IT Service Management (ITSM) 
 system
