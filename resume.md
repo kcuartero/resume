@@ -6,12 +6,13 @@ line. It is intended to be used for contact details -->
 - <kevin.cuartero@gmail.com>
 - (647) 465-4790
 - [kcuartero.cloud](https://kcuartero.cloud)
-- [github.com/kcuartero](https://github.com/kcuartero)
+- [LinkedIn](https://www.linkedin.com/in/kevin-cuartero/)
+- [GitHub](https://github.com/kcuartero)
 - Brampton, ON
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Ambitious Cloud Engineer who proactively shifted career paths from a thriving Help Desk Supervisor role to focus on acquiring comprehensive knowledge of cloud technologies. Proficient in Google Cloud services, full-stack development, and IT support, I am dedicated to utilizing my diverse experience to construct and enhance scalable cloud solutions.
+Ambitious **DevOps Engineer** who proactively shifted career paths from a thriving Help Desk Supervisor to focus on acquiring comprehensive knowledge of cloud technologies. Proficient in **GCP** and **AWS** services, implementing **CI/CD** pipelines and developing **infrastructure as code**.
 
 ## Project
 
@@ -74,5 +75,5 @@ computers
 
 ## Languages and Technologies
 
- - Languages: Python, JavaScript, HTML, CSS, YAML, SQL, Bash
- - Tools: GCP, Terraform, Docker, Git, Cypress
+ - Languages: Python, JavaScript, HTML, CSS, YAML, SQL, Bash, PowerShell
+ - Tools: GCP, AWS, Terraform, Docker, Git, Cypress
