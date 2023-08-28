@@ -12,7 +12,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Ambitious **DevOps Engineer** who proactively shifted career paths from a thriving Help Desk Supervisor to focus on acquiring comprehensive knowledge of cloud technologies. Proficient in **GCP** and **AWS** services, implementing **CI/CD** pipelines and developing **infrastructure as code**.
+Ambitious **DevOps Engineer** who proactively shifted career paths from a thriving Help Desk Supervisor to focus on acquiring comprehensive knowledge of cloud technologies. Proficient in **GCP** services, implementing **CI/CD** pipelines and developing **infrastructure as code**.
 
 ## Project
 
@@ -28,7 +28,6 @@ Deployed a static website hosted on Google Cloud utilizing the technologies belo
 - Continuous integration and delivery (connecting GitHub Actions, Terraform and Google Cloud)
 
 - Full-stack software development (HTML/CSS, Python and Javascript)
-
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
@@ -76,4 +75,4 @@ computers
 ## Languages and Technologies
 
  - Languages: Python, JavaScript, HTML, CSS, YAML, SQL, Bash, PowerShell
- - Tools: GCP, AWS, Terraform, Docker, Git, Cypress
+ - Tools: GCP, Terraform, Docker, Git, Cypress
