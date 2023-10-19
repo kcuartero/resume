@@ -12,11 +12,11 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Ambitious **DevOps Engineer** who proactively shifted career paths from a thriving Help Desk Supervisor to focus on acquiring comprehensive knowledge of cloud technologies. Proficient in **GCP** services, implementing **CI/CD** pipelines and developing **infrastructure as code**.
+Ambitious **Cloud Engineer** who proactively shifted career paths from a thriving Help Desk Supervisor to focus on acquiring comprehensive knowledge of cloud technologies. Proficient in **GCP** services, implementing **CI/CD** pipelines and developing **infrastructure as code**.
 
 ## Project
 
-### <span>The Cloud Resume Challenge | A multi-step resume project that builds and demonstrates fundamental cloud skills</span>
+### <span>The Cloud Resume Challenge | A resume project that builds and demonstrates fundamental cloud skills</span> <span>2023</span>
 
 Deployed a static website hosted on Google Cloud utilizing the technologies below:
 
